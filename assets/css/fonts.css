@@ -1,0 +1,27 @@
+.lcea {
+  font-family: 'D3 Euronism', sans-serif;
+}
+ .lceab{
+    font-family: 'D3 Euronism Bold', sans-serif;
+ }
+
+ html{
+  scroll-behavior: smooth;
+}
+ /* @media (min-width: 700px) {
+    .logo {
+      margin-left: 10vw;
+    }
+    .cletras{
+        color: white;
+        }
+  }
+  .color {
+    background-color: #0b3c7e;
+  }
+ 
+
+  .mt-n6 {
+    margin-top: -50px !important;
+  } */
+
